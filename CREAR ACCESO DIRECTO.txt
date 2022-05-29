@@ -1,0 +1,7 @@
+
+
+1) ClikDerecho --> crear acceso directo
+
+2) en ruta ponenr cmd /k cd  "ruta de trabajo" && cmd /k jupyter notebook
+
+3) Dar el nombre que queramos, podemos cambiar el icono del ejecutable llegados a este punto
