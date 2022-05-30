@@ -1,3 +1,0 @@
-En ruta deseada usar este orden de comandos, o los dos juntos con &&:
-1) pip install jupyter_contrib_nbextensions
-2) jupyter contrib nbextension install
